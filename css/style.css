@@ -1,12 +1,12 @@
 /*!
- * Start Bootstrap - Business Casual (http://startbootstrap.com/)
+ * Start Bootstrap (http://startbootstrap.com/)
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
 body {
     font-family: "Architects Daughter","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/bg2.jpg') no-repeat center center fixed;
+    background: url('../img/bg.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -41,6 +41,10 @@ hr {
 .address-bar {
     font-family: 'Architects Daughter', cursive;
     display: none;
+}
+
+.btn {
+    font-family: 'Open Sans', 'Helvetica', sans-serif;
 }
 
 .navbar-brand {
@@ -169,7 +173,7 @@ footer p {
     }
 
     .nav>li>a {
-        padding: 35px;
+        padding: 15px;
     }
 
     .navbar-nav>li>a {
