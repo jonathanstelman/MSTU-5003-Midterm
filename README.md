@@ -9,4 +9,6 @@
 
 
 ## Issues
+
+Cannot get navbar to remain at top, after scrolling past masthead.
 ## Future plans
