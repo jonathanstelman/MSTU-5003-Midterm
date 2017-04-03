@@ -108,6 +108,13 @@ hr {
     margin: 0 auto 0;
 }
 
+.ul-content {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.25em;
+    line-height: 1.6;
+    color: #000;
+}
+
 footer {
     background: #fff;
     background: rgba(255,255,255,0.9);
@@ -140,6 +147,16 @@ footer p {
         float: left;
         margin-right: 25px;
     }
+
+    .img-right {
+        float: right;
+        margin-left: 25px;
+    }
+
+   .center {
+    margin: auto;
+    width: 50%;
+}
 
     .address-bar {
         display: inherit;
