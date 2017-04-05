@@ -87,6 +87,8 @@ Make sure your program does something to measure the consider assessments as a p
 		* Tablature
 
 ## Structure
-Interaction design and information architecture
+A premium user gains access to a number of key features, include the Forums and a Personalized Lesson Plan. Users will take a short quiz indicating their experience, goals, and interests, and an assessment tool written in javascript will classify the user into one of 30 different tracks. Sample tracks may be "Inexperienced Folk Artist Seeking Academic Route", or "Experienced Classical Artist Seeking Improvisational Based Performance".
+
+Each track is a collection of videos that pull from the major content sections: Lessons, Styles, Music Theory, and are augmented with videos covering goal-specific techniques, (e.g. tremelo picking for a Classical student).
 
 ## Skeleton
