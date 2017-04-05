@@ -43,6 +43,10 @@ hr {
     display: none;
 }
 
+.jumbotron {
+    padding-top: 300px;
+}
+
 .btn {
     font-family: 'Open Sans', 'Helvetica', sans-serif;
 }
@@ -205,6 +209,10 @@ footer p {
         table-layout: fixed;
         font-size: 1.25em;
     }
+}
+
+.content {
+
 }
 
 @media screen and (min-width:1200px) {

@@ -1,6 +1,6 @@
 # Midterm Project - Instructional Website Design Document
 ## Topic
-Ukulele as a "serious" musical instrument: making the path to higher musicianship fun and inclusive.
+Ukulele as a "serious" musical instrument: Making the path to higher musicianship inclusive and fun.
 
 ## Problem
 In music education, certain instruments are treated as more or less "valid" than others. Orchestral and symphonic instruments are treated more seriously by music schools, musicians, and by the public at large. As a result, learners who enter into musical studies through less "serious" instruments, such as guitar, drums, keyboards, and ukulele, can be made to feel inferior in a number of ways.
@@ -81,14 +81,12 @@ Make sure your program does something to measure the consider assessments as a p
 			* Common meters (4/4, 6/8, 3/4)
 			* Odd meters (5/4, 7/8, 11/8)
 	* Notation
-		* The treble clef
-		* Bass clef
-		* C clef
+		* The treble clef (G Clef)
+		* Bass clef (F Clef)
+		* Moveable clef (C clef)
 		* Tablature
 
 ## Structure
 Interaction design and information architecture
 
 ## Skeleton
-Interface, navigation, information design
-(You'll provide wireframes here)
