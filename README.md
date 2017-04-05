@@ -13,21 +13,15 @@ Without useful resources, learners tend to learn a few chords, get bored, and mo
 The target audience consists of beginner to intermediate players of the ukulele who want to learn ukulele *and music* together. The tone is somewhat academic, in that it does not shy away from talking about music with a more sophisticated vocabulary, so the reading ability of users should be at least the 8th grade level. The site is also designed to meet the needs of more experienced musicians, who are interested in deepening their knowledge of music theory and history - possibly in preparation for enrollment in music school.
 
 ### User Stories
-**Outline 2-3 user stories. Describe how they find out, engage and come back to your site. Provide rationale.**
+#### User Story 1: Sarah, 10th Grader, interested in applying to music school.
+Sarah is a 10th grader who is active in her school’s chorus and theater program, and wants to take her interest in music to the next level by learning an instrument. She bought a beginner’s ukulele, and taught herself how to play a few Beatles songs by watching videos on YouTube. Still, she doesn’t think of herself a real musician, since note names and sheet music seem like a foreign language to her. Sarah wants to apply to a theater arts program next year, but fears that, if she is going to pass any music entrance exam, she will have to learn to play a new instrument like piano, and she just can’t afford that.
 
-Structure your user stories as features, so you can actually build it to meet the users needs.
+Sarah then stumbled upon our website, and saw that music theory can be learned with only a ukulele. After browsing through all of the basic lessons, she decided to become a Premium member, and was assigned a track that will teach her everything she needs to know to convince schools she is serious about her musicianship. Sarah also met other people on the forums who have recently been accepted to music schools, and have offered her advice for how to prepare for the auditions.
 
-**Example**: As a [type of user], I want [some goal] so that [some reason].
+#### User Story 2: Jon, experienced musician, interested in learning advanced improvisation techniques on a new instrument
+Jon is an experienced musician who studied guitar in college. He received a ukulele for Christmas, and is seeking resources that can help him build up his repertoire on the ukulele, and can prepare him for collaborative rock / folk projects, where will improvise chord / melody accompaniment. He has visited a number of ukulele websites, but, by and large, they don’t at all seem interested in talking about music in musical terms.
 
-Keep these questions in mind:
-	* Who are you building the feature for? What type of user?
-	* What are you building and what will it accomplish?
-	* What kind of engagement and value will the feature/website bring for the user?
-	* What does it accomplish?
-
-- **User Story 1:**
-- **User Story 2:**
-- **User Story 2:**
+Jon wants to be able to find resources that talk about scale patterns and how to utilize the unordered string structure of the instrument as an advantage. Furthermore, he wants to connect with advanced ukulele players and find out who their influences are, and how they are experimenting with the instrument.
 
 ## Strategy
 ### Site Objectives:
